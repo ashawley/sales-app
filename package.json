@@ -1,0 +1,22 @@
+{
+  "name": "sales-app",
+  "version": "0.1.0",
+  "description": "Calculate sales quotes for customers",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/SpeakEZ/sales-app",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "FuelEd",
+  "license": "Proprietary",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
